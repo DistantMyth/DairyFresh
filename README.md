@@ -1,4 +1,3 @@
-```markdown
 # 🥛 [DairyFresh]
 
 A responsive React frontend showcasing a variety of premium dairy products. This project highlights product details, nutritional information, and provides an engaging, interactive user interface for browsing dairy items like milk, cheese, butter, and yogurt.
