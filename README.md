@@ -1,5 +1,3 @@
-Here is the updated `README.md` tailored specifically for a React environment. You can copy and paste this directly into your `README.md` file.
-
 ```markdown
 # 🥛 [DairyFresh]
 
