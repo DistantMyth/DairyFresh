@@ -51,8 +51,8 @@ Open `http://localhost:5173` (or the port specified in your terminal) to view it
 Thanks to the following people who have contributed to this project:
 
 * **Tarun Kumar** - *Lead Developer* - [@DistantMyth](https://github.com/DistantMyth)
-* **[Contributor 2 Name]** - *Webpage Structuring* - [@saksham3100](https://github.com/saksham3100)
-* **[Contributor 3 Name]** - *dynamic elements* - [@nilanjanchavan](https://github.com/nilanjanchavan)
+* **[Saksham Singhal]** - *Webpage Structuring* - [@saksham3100](https://github.com/saksham3100)
+* **[Nilanjan Chavan]** - *dynamic elements* - [@nilanjanchavan](https://github.com/nilanjanchavan)
 
 ## 📝 License
 
