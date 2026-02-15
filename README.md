@@ -13,7 +13,7 @@ A responsive React frontend showcasing a variety of premium dairy products. This
 * **Node.js & npm** (Package Management)
 
 ## 🚀 Getting Started
-
+Live instance at [Netlify](https://dairy-fresh.netlify.app/)
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
